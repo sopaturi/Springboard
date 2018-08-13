@@ -27,17 +27,18 @@ exploring the data, and getting acquainted with the 3 tables. */
 /* Q1: Some of the facilities charge a fee to members, but some do not.
 Please list the names of the facilities that do. */
 
-SELECT name
-FROM  `Facilities` 
-WHERE membercost = 0.0
-LIMIT 0 , 30
-
-
-/* Q2: How many facilities do not charge a fee to members? */
 
 SELECT COUNT( name ) 
 FROM  `Facilities` 
 WHERE membercost != 0.0
+
+
+/* Q2: How many facilities do not charge a fee to members? */
+
+SELECT name
+FROM  `Facilities` 
+WHERE membercost = 0.0
+LIMIT 0 , 30
 
 /* Q3: How can you produce a list of facilities that charge a fee to members,
 where the fee is less than 20% of the facility's monthly maintenance cost?
