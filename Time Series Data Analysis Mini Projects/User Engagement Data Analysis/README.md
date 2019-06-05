@@ -1,8 +1,8 @@
-#Take Home Challenge Exercise
-##Problem: User Engagement Data Analysis
+# Take Home Challenge Exercise
+## Problem: User Engagement Data Analysis
 Given a user table with data on 12,000 users who signed up for the product in the last two years and usage summary table that user logged-in hitstory, defining an "adopted user" as a user who has logged into the product on three separate days in at least one sevenday period, identify which factors predict future user adoption.
 
-##Data
+## Data
 A user table ( "takehome_users" ) with the following columns:
 name: the user's name
 object_id: the user's id
@@ -21,11 +21,11 @@ org_id: the organization (group of users) they belong to
 invited_by_user_id: which user invited them to join (if applicable).
 A usage summary table ( "takehome_user_engagement" ) that has a row for each day that a user logged into the product.
 
-##Approach
+## Approach
 Apply data wrangling to fix data types and fill missing values and fix outliers if applicable.
 Define adopted user using time series analysis techniques.
 Analyze features predict future user adoption using logistic regression and ensemble method.
 
 
-Deliverables
+## Deliverables
 Data wrangling, exploratory data analysis & modeling code in Python notebook.
