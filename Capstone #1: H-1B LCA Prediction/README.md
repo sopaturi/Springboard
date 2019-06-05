@@ -32,6 +32,9 @@ of Immigration. H-1B visas are commonly applied
 to by international students are who are looking to
 work after completing their education in the United
 States.
+
+
+
 A preliminary step before an H-1B visa application can be filed is the submission of the H-1B LCA
 (Labor Condition Application) to the Department of
 Labor. The H-1B LCA contains information about
@@ -43,6 +46,10 @@ into paying a fair wage and providing benefits to
 a foreign born worker that greater than or equal to
 the prevailing wage and benefits in the applicant’s
 location.
+
+
+
+
 Currently, there is not a published deterministic
 cause for H-1B LCA application denial. However,
 the objective is to find a relationship between responses to fields of the application to application
@@ -62,6 +69,8 @@ client will have a better chance at having their H-1B
 LCA certified by using the findings to change the
 application responses to responses that have a high
 H-1B LCA certification rate.
+
+
 The outline of this report is summarized here with
 Section II introducing the data set. In section III,
 the data wrangling of the data set is summarized by
