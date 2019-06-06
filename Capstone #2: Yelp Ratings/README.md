@@ -1,6 +1,7 @@
 # Predicting Restaurant Review Sentiment from Yelp Reviews
 ## Soorya Paturi (sopaturi@gmail.com)
-## Abstract— Yelp reviews are a popular reference for
+## Abstract
+—Yelp reviews are a popular reference for
 gauging a restaurant’s ability to provide a positive
 experience. A Yelp review consists of a text review as
 well as a star rating that is on a range of 1-5 stars.
