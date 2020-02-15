@@ -3,8 +3,8 @@
 Hi! This portfolio contains a list of data science projects & exercises that I've worked on.
 Each subdirectory has its own README for problem description, approaches and deliverables.
 
-1. Capstone 1: [Predicting the Likelihood of Acceptance of an H-1B LCA Application](https://github.com/sopaturi/Springboard/tree/master/Capstone%20%231:%20H1B%20Outcomes)
-2. Capstone 2: [Predicting Restaurant Review Sentiment from Yelp Reviews](https://github.com/sopaturi/Springboard/tree/master/Capstone%20%232:%20Yelp%20Ratings)
+1. Capstone Project #1: [Predicting the Likelihood of Acceptance of an H-1B LCA Application](https://github.com/sopaturi/Springboard/tree/master/Capstone%20Project%20%231:%20Predicting%20H-1B%20LCA%20Application%20Outcomes)
+2. Capstone Project #2: [Predicting Restaurant Review Sentiment from Yelp Reviews](https://github.com/sopaturi/Springboard/tree/master/Capstone%20%232:%20Yelp%20Ratings)
 3. SQL-Based Data Exercises: [SQL Queries in Python](https://github.com/sopaturi/Springboard/tree/master/SQL)
 4. JSON-Based Data Exercises: [World Bank Project](https://github.com/sopaturi/Springboard/tree/master/JSON%20Based%20Data%20Exercise)
 5. API Mini Project: [Stock Price Difference (Quandl API)](https://github.com/sopaturi/Springboard/tree/master/API%20Mini-Project)
